@@ -9,3 +9,7 @@ This section contains useful resources related to frontend development
 **Tats Kc**
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
+
+**Kananelo Joel**
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [ShadCN](https://ui.shadcn.com/)
