@@ -8,4 +8,4 @@ This section contains useful resources related to frontend development
 ### Example:
 **Tats Kc**
 - [Frontend Mentor](https://www.frontendmentor.io/)
-- [freeCodeCamp] (https://www.freecodecamp.org/)
+- [freeCodeCamp](https://www.freecodecamp.org/)
