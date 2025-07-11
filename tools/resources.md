@@ -1,11 +1,12 @@
-# Frontend Resources
+# Tools For Development
 
 This section contains useful tools for software development
 
 ## Contributors
-(Add your name and resources below)
+Thato Tlhalefang
 
 ### Example:
-**Tats Kc**
-- [Frontend Mentor](https://www.frontendmentor.io/)
-- [freeCodeCamp] (https://www.freecodecamp.org/)
+**Thato**
+- [VsCode](https://code.visualstudio.com/)
+- [Git](hhttps://git-scm.com/)
+
