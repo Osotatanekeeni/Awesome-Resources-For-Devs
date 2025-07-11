@@ -1,11 +1,15 @@
-# Frontend Resources
+# devOps Resources
 
 This section contains useful resources related to devOps
 
 ## Contributors
-(Add your name and resources below)
+**Kutloano**
+-Benefits of DevOps
+-Faster software delivery] ( https://www.atlassian.com/devops)
+-Improved collaboration and transparency] ( https://www.docker.com/resources/what-container/devops/)
+-Higher quality and reliability] ( https://www.docker.com/resources/what-container/devops/)
 
 ### Example:
 **Tats Kc**
-- [Frontend Mentor](https://www.frontendmentor.io/)
+- deveOps Mentor](https://www.frontendmentor.io/)
 - [freeCodeCamp] (https://www.freecodecamp.org/)
