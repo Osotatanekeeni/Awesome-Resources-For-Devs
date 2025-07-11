@@ -12,4 +12,3 @@ This section contains useful resources related to backend development
 
 **Ama**
 - [Backend mentor](https://www.backendmaster.com/)
-- [freeCodeCamp](https://www.freecodecamp.org/)
