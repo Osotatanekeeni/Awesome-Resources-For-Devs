@@ -10,6 +10,10 @@ This section contains useful resources related to backend development
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [freeCodeCamp] (https://www.freecodecamp.org/)
 
+**Ama**
+- [Backend mentor](https://www.backendmaster.com/)
+
+
 **Nomhle Cathala**
 - [MongoDB] (https://en.wikipedia.org/wiki/MongoDB)
 - [MySQL] (https://www.geeksforgeeks.org/sql/what-is-mysql/)
