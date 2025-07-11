@@ -13,3 +13,9 @@ This section contains useful resources related to backend development
 **Nomhle Cathala**
 - [MongoDB] (https://en.wikipedia.org/wiki/MongoDB)
 - [MySQL] (https://www.geeksforgeeks.org/sql/what-is-mysql/)
+
+**Poloko**
+- [The Odin Project – Backend Path](https://www.theodinproject.com/paths/full-stack-javascript)
+- [Full Stack Open by University of Helsinki]( https://fullstackopen.com/en/)
+- [Node.js Backend Mastery Course](https://www.youtube.com/watch?v=Oe421EPjeBE)
+- [Backend Roadmap]( https://roadmap.sh/backend)
