@@ -5,7 +5,8 @@ This section contains useful developer tools
 ## Contributors
 (Add your name and resources below)
 
-### Tats Kc
+### Example:
+**Tats Kc**
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 
