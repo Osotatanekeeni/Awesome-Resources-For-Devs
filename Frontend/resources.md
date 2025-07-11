@@ -9,5 +9,5 @@ This section contains useful resources related to frontend development
 - [freeCodeCamp](https://www.freecodecamp.org/)
 
 **Limpho**
--[CSS Tricks](https://css-tricks.com/)
--[MDN Web Docs](https://developer.mozilla.org/)
+- [CSS Tricks](https://css-tricks.com/)
+- [MDN Web Docs](https://developer.mozilla.org/)
